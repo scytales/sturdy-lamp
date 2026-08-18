@@ -4,7 +4,7 @@
 def main() -> None:
 	"""Run the script."""
 	print("Hello from sturdy-lamp!")
-	print("welcome to sturdy-lamp, yo!")
+	print("welcome to Sturdy-Lamp, yo!")
 
 
 if __name__ == "__main__":
